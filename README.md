@@ -65,7 +65,7 @@ You can read about `styled-components` [here](https://styled-components.com/docs
 Create a file named `.env` in your project root, we will be storing our API keys and other secrets in this file. 
 
 ```
-Note: Make absolutely sure to add .env in you .gitignore. You never want to push 
+Note: Make absolutely sure to add .env in your .gitignore. You never want to push 
 your secrets to a public repository
 ```
 
